@@ -1,0 +1,6 @@
+{
+    "animations.Active": "Scale",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
